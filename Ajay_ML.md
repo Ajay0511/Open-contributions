@@ -24,4 +24,4 @@ Plots - matplotlib and seaborn
  Convolution Networks
  Transfer Learning
  Tensorflow and Keras 
- '''
+ 
