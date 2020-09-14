@@ -1,6 +1,6 @@
 **Machine Learning Topics** 
 
-'''
+```
 1. Regression 
 2. Support Vector Machines
 3. Decision Trees
@@ -11,11 +11,11 @@
 8. Evaluation Metrics:- Confusion Matrix
 9. Classification Report :- precision ,recall and F1 score
 10. Plots - matplotlib and seaborn
-'''
+```
 
 
 **Deep Learning Topics**
-'''
+```
  1. Forward Propopgation
  2. Backward Propogation
  3. Hyperparameter tuning
@@ -25,4 +25,4 @@
  7. Convolution Networks
  8. Transfer Learning
  9. Tensorflow and Keras 
- '''
+```
