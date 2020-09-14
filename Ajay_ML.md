@@ -1,4 +1,4 @@
-##Machine Learning Topics 
+## Machine Learning Topics 
 
 ```
  Regression 
@@ -14,7 +14,7 @@
 ```
 
 
-##Deep Learning Topics
+## Deep Learning Topics
 ```
   Forward Propopgation
   Backward Propogation
