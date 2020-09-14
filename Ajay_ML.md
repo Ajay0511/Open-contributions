@@ -1,4 +1,5 @@
-**Machine Learning Topics**
+**Machine Learning Topics** 
+
 '''
 1. Regression 
 2. Support Vector Machines
@@ -14,7 +15,7 @@
 
 
 **Deep Learning Topics**
- '''
+'''
  1. Forward Propopgation
  2. Backward Propogation
  3. Hyperparameter tuning
@@ -24,4 +25,4 @@
  7. Convolution Networks
  8. Transfer Learning
  9. Tensorflow and Keras 
- 
+ '''
